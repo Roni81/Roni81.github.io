@@ -5,11 +5,12 @@ author: "Hong Sungmin(Ron Hong)"
 categories: Data Analysis
 ---
 
-Synopsis
+---
+#h1 Synopsis #h1
 We are in dramatic changing environment.
 There are issue about global warming.
 Many countries are trying to connect environment and economy.
-
+---
 [Text taken from here](http://sherlock-holm.es/stories/html/card.html)
 
 [^1]: This is some text for a footnote.
